@@ -1,0 +1,12 @@
+form {
+    border: 1px solid blue;
+    width: 300px;
+}
+
+form h1{
+    color: brown;
+}
+
+form input {
+    padding-right: 30px;
+}
